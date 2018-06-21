@@ -3,3 +3,7 @@
 ## Running the Sample
 
 Install the dependencies.
+
+```bash
+yarn installDeps
+```
